@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HannahVincent
-- 👀 I’m interested in biomedical engineering, in-silico modeling, and HPC!
-- 🌱 I’m currently learning Matlab, Python, and C++
+- 👀 I’m interested in biomedical engineering, in-silico modeling, software engineering, and HPC!
+- 🌱 I’m currently learning to reprogram a Creality Ender 6 3D printer to print biological material. 
 - 😄 Pronouns: She/Her
 
 
